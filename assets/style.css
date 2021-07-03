@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a, a:hover{
+	color: #dc3545;
+}
+
+.footer{
+	font-size: 14px;
+}
+
+.example{
+	cursor: pointer;
+}
+.example:hover{
+    color: #dc3545;
+}
+
+.reference{
+	color: #212529;
+	text-decoration:none
+}
+.reference:hover{
+	color: #dc3545;
+}
+
+.author{
+	color: #212529;
+	text-decoration:none
+}
+.author:hover{
+	color: #dc3545;
+}
