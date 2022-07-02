@@ -1,6 +1,6 @@
 body{
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 a, a:hover{
@@ -15,7 +15,7 @@ a, a:hover{
 	cursor: pointer;
 }
 .example:hover{
-    color: #dc3545;
+	color: #dc3545;
 }
 
 .reference{
@@ -35,7 +35,7 @@ a, a:hover{
 }
 
 @media(min-width: 1200px){
-    .container{
-        max-width: 960px;
-    }
+	.container{
+		max-width: 960px;
+	}
 }
